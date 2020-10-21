@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e0fba65.chunk.css",
+    "main.js": "/static/js/main.4de7254c.chunk.js",
+    "main.js.map": "/static/js/main.4de7254c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bfca2edd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bfca2edd.js.map",
+    "static/css/2.bcddf60d.chunk.css": "/static/css/2.bcddf60d.chunk.css",
+    "static/js/2.45302534.chunk.js": "/static/js/2.45302534.chunk.js",
+    "static/js/2.45302534.chunk.js.map": "/static/js/2.45302534.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8940ef67ace34e5dff14bd767e9d2865.js": "/precache-manifest.8940ef67ace34e5dff14bd767e9d2865.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bcddf60d.chunk.css.map": "/static/css/2.bcddf60d.chunk.css.map",
+    "static/css/main.1e0fba65.chunk.css.map": "/static/css/main.1e0fba65.chunk.css.map",
+    "static/js/2.45302534.chunk.js.LICENSE.txt": "/static/js/2.45302534.chunk.js.LICENSE.txt",
+    "static/media/landing.css": "/static/media/Ilustra02.91c8d1af.svg",
+    "static/media/Logo.svg": "/static/media/Logo.1653c647.svg",
+    "static/media/local.svg": "/static/media/local.658b8302.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfca2edd.js",
+    "static/css/2.bcddf60d.chunk.css",
+    "static/js/2.45302534.chunk.js",
+    "static/css/main.1e0fba65.chunk.css",
+    "static/js/main.4de7254c.chunk.js"
+  ]
+}
